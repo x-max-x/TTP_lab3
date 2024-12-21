@@ -38,6 +38,4 @@
   pgcli -p 5432 -h localhost  mydatabase -U myuser -W
   ```
 
-5. Init DB
 
-- sql file in sql_schema/db_init.sql
